@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/moviesFragment"
+        android:icon="@drawable/ic_baseline_live_tv_24"
+        android:title="Filmy" />
+    <item
+        android:id="@+id/toWatchFragment"
+        android:icon="@drawable/ic_baseline_save_24"
+        android:title="Do objerzenia" />
+</menu>
